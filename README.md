@@ -1,0 +1,2 @@
+# React useEffect Hook with Incorrect Conditional Rendering
+This repository demonstrates a common error in React applications involving the `useEffect` hook and conditional rendering. The provided code snippet shows how using a condition inside `useEffect` that's only true after multiple renders can lead to unexpected behavior. The solution provides an alternative method that is more efficient.
